@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637335414 source:c:\users\moazz\_my_ programs_\c++\important program\bankmanagementsystem\main.cpp
+	<iostream>
+
+1637594505 source:e:\my_ programs_\c++\important program\bankmanagementsystem\main.cpp
+	<iostream>
+	<string.h>
+
